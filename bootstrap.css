@@ -1,0 +1,35 @@
+.bg-transparent{
+    background-color: transparent;
+    color: black;
+}
+.height-carrusel{
+    max-height:400px;
+    min-height:300px;
+}
+.h5Ariba
+{
+    margin-top: -100px;
+    color: black;
+}
+#mayormenor{
+    /* margin-top: -100px; */
+    max-height:fit-content;
+    min-height:210px;
+}
+.icon-redes{
+    font-size: 60px;
+    margin-right: 5%;
+}
+.fa-facebook{
+color: cornflowerblue;
+}
+.fa-instagram-square{
+   
+        background: linear-gradient(yellow,red);
+        -webkit-background-clip: text;
+          color: transparent;
+    
+}
+.fa-linkedin{
+color: cornflowerblue;
+}
